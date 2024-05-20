@@ -9,7 +9,7 @@ Sentence Simplification aims to make sentences easier to read and understand. Wi
 
 ### Annotation Scheme
 - Linguistic Operation
-	- Substitution: synonyms (SubS), hypernyms (SubH), numbers (SubN), Pronouns (SubP).
+	- Substitution: synonyms (SubS), hypernyms (SubH), numbers (SubN), pronouns (SubP).
 	- Insertion
 	- Deletion
 	- Syntactic: merging individual clauses within a sentence (SynM), splitting a sentence (SynS), transforming passive voice into active forms (SynV). 
